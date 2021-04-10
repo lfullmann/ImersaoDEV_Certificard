@@ -1,0 +1,17 @@
+body{
+    background-color: #FD6533;
+/* #8F4B4B   */
+}
+
+section{
+    margin-top: 100px;
+  background-color:#FFFF;
+  padding:15px;
+}
+
+
+div{
+    margin: 15px;
+    border: 1px solid black;
+    background-color:#bac3d6;
+    }   
